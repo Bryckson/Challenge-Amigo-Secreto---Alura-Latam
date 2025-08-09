@@ -1,6 +1,6 @@
 # Reto #5: Amigo Secreto - Alura Latam / Oracle ONE G9
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado%20(Fase%202)-brightgreen)
+![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado%20-brightgreen)
 ![Challenge](https://img.shields.io/badge/Challenge-Alura%20Latam%20%2F%20ONE-blue)
 
 Este repositorio contiene la solución para el Challenge "Amigo Secreto", correspondiente al track "Principiante en Programación G9" de Alura Latam en colaboración con Oracle Next Education. El objetivo principal fue desarrollar una aplicación web interactiva desde cero para gestionar y realizar el sorteo de un amigo secreto, aplicando los conceptos fundamentales de HTML, CSS y JavaScript.
